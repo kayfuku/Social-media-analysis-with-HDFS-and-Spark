@@ -1,4 +1,4 @@
-# Project 3: Reddit Analysis with Spark (v 1.0)
+# Social-media-analysis-with-HDFS-and-Spark  
 
 Project Specification: https://www.cs.usfca.edu/~mmalensek/cs677/assignments/project-3.html  
 
